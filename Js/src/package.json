@@ -1,0 +1,27 @@
+{
+  "name": "horder-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snxx-lppxx/Horder-discord-bot.git"
+  },
+  "keywords": [
+    "horder",
+    "discord",
+    "bot"
+  ],
+  "author": "snxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snxx-lppxx/Horder-discord-bot/issues"
+  },
+  "homepage": "https://github.com/snxx-lppxx/Horder-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
